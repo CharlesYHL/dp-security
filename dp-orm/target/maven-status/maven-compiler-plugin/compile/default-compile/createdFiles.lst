@@ -1,0 +1,12 @@
+net\chenlin\dp\orm\dialect\DialectFactory.class
+net\chenlin\dp\orm\dialect\MySql5PageHepler.class
+net\chenlin\dp\orm\dialect\OracleDialect.class
+net\chenlin\dp\orm\dialect\MSDialect.class
+net\chenlin\dp\orm\dialect\MySql5Dialect.class
+net\chenlin\dp\orm\mybatis\PackagesSqlSessionFactoryBean.class
+net\chenlin\dp\orm\dialect\PostgreDialect.class
+net\chenlin\dp\orm\dialect\Dialect.class
+net\chenlin\dp\orm\plugins\PaginationResultSetHandlerInterceptor.class
+net\chenlin\dp\orm\dialect\MSPageHepler.class
+net\chenlin\dp\orm\dialect\PostgrePageHepler.class
+net\chenlin\dp\orm\plugins\PaginationStatementHandlerInterceptor.class

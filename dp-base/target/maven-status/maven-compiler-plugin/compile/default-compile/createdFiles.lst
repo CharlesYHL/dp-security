@@ -1,0 +1,7 @@
+net\chenlin\dp\base\controller\SysMacroController.class
+net\chenlin\dp\base\service\SysMacroService.class
+net\chenlin\dp\base\service\impl\SysMacroServiceImpl.class
+net\chenlin\dp\base\dao\SysMacroMapper.class
+net\chenlin\dp\base\entity\SysMacroEntity.class
+net\chenlin\dp\base\manager\impl\SysMacroManagerImpl.class
+net\chenlin\dp\base\manager\SysMacroManager.class
