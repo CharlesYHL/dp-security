@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>商品管理</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="${rc.contextPath}/statics/images/favicon.ico">
+    <!--<meta name="viewport" content="width=device-width,initial-scale=1">-->
+
+    #parse("include/header.html")
+</head>
+<body>
+<div id="container" style="min-width:400px;height:400px"></div>
+
+#parse("include/footer.html")
+<script src="${rc.contextPath}/statics/highcharts/jquery-1.8.3.min.js"></script>
+<script src="${rc.contextPath}/statics/highcharts/highcharts.js"></script>
+<script src="${rc.contextPath}/statics/highcharts/modules/exporting.js"></script>
+<script src="${rc.contextPath}/statics/highcharts-plugins/highcharts-zh_CN.js"></script>
+<script src="${rc.contextPath}/statics/js/statistics/list2.js?_${date.systemTime}"></script>
+</body>
+</html>
